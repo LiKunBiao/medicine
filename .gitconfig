@@ -1,0 +1,7 @@
+[core]
+	editor = \"F:\\develop\\VSCode\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = 3238173236@qq.com
+	name = JianFeiDao
+[core]
+excludesfile = C:/Users/JianFeidao/git.ignore
